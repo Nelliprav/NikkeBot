@@ -7,6 +7,7 @@ from func import *
 from settings import settings
 from checks import *
 
+print = "1"
 bot = load_json("developers.json")
 bot = load_json("premium.json")
 
